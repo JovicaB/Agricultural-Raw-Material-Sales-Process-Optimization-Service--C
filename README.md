@@ -1,5 +1,7 @@
 # Servis za optimizovanje procesa prodaje poljoprivrednih sirovina [koncept]
 
+[koncept]
+
 Aplikacija pruža bolju pregovaračku poziciju ponuđačima u prodaji poljoprivrednih sirovina, grupisanjem ponuda, dok otkupljivačima omogućava bolju logistiku u procesu otkupa. Takođe, potrošači imaju sve informacije o proizvodu koji kupuju, jer se kompletan proces, od semena do finalnog proizvoda, loguje.
 
 ## Funkcionalnost
