@@ -1,4 +1,4 @@
-# Servis za optimizovanje procesa prodaje poljoprivrednih sirovina [koncept]
+# Servis za optimizovanje procesa prodaje poljoprivrednih sirovina
 
 [koncept]
 
