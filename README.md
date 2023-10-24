@@ -1,6 +1,6 @@
 # Agricultural Raw Material Sales Process Optimization Service
 
-[Concept]
+[concept]
 
 The application provides better negotiation positions to agricultural raw material sellers by grouping offers, while facilitating better logistics for buyers in the purchasing process. Additionally, consumers have access to all product information they purchase since the entire process, from seed to final product, is logged.
 
